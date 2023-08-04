@@ -17,7 +17,7 @@ $("body").animate(
 {
 	marginTop : "0",
 	opacity : "1",
-} , 10000);
+} , 1000);
 
 $(".hero-section p").animate(
 {
